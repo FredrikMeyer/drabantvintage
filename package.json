@@ -1,0 +1,10 @@
+{
+  "name": "drabant-vintage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fredrik Meyer <hrmeyer@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
