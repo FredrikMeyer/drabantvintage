@@ -5,6 +5,7 @@
   "author": "Fredrik Meyer <hrmeyer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "html-minifier-terser": "^7.0.0-beta.0",
     "serve": "^13.0.2"
   }
 }

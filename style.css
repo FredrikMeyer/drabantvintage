@@ -24,3 +24,23 @@ h2 {
   margin: auto;
   text-align: center;
 }
+
+.socials a {
+  text-decoration: none;
+}
+
+.socials img {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.instagram {
+  width: 5vmin;
+}
+
+.instagram:hover {
+  /* Ridicolous hack https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element */
+  filter: invert(23%) sepia(43%) saturate(2285%) hue-rotate(284deg) brightness(89%) contrast(83%);
+  /* filter: invert(37%) sepia(63%) saturate(316%) hue-rotate(118deg) brightness(97%) contrast(93%); */
+}
